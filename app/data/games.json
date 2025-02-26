@@ -1,0 +1,92 @@
+[
+  {
+    "game_id": 1,
+    "match_id": 1,
+    "game_number": 1,
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "PSG Esports",
+    "duration": "21:52",
+    "mvp": {
+      "player_name": "Overone",
+      "team": "PSG Esports",
+      "hero": "Bolt Baron",
+      "kills": 2,
+      "deaths": 2,
+      "assists": 6,
+      "gold": 12500
+    }
+  },
+  {
+    "game_id": 2,
+    "match_id": 1,
+    "game_number": 2,
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "PSG Esports",
+    "duration": "35:58",
+    "mvp": {
+      "player_name": "Fakeplayz",
+      "team": "PSG Esports",
+      "hero": "Raz",
+      "kills": 10,
+      "deaths": 3,
+      "assists": 11,
+      "gold": 15000
+    }
+  },
+  {
+    "game_id": 3,
+    "match_id": 1,
+    "game_number": 3,
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "Full Sense",
+    "duration": "17:14",
+    "mvp": {
+      "player_name": "AshEarth",
+      "team": "Full Sense",
+      "hero": "Nakroth",
+      "kills": 7,
+      "deaths": 2,
+      "assists": 10,
+      "gold": 13800
+    }
+  },
+  {
+    "game_id": 4,
+    "match_id": 1,
+    "game_number": 4,
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "Full Sense",
+    "duration": "14:21",
+    "mvp": {
+      "player_name": "Xerross",
+      "team": "Full Sense",
+      "hero": "Florentino",
+      "kills": 6,
+      "deaths": 1,
+      "assists": 8,
+      "gold": 14000
+    }
+  },
+  {
+    "game_id": 5,
+    "match_id": 1,
+    "game_number": 5,
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "PSG Esports",
+    "duration": "16:03",
+    "mvp": {
+      "player_name": "Fakeplayz",
+      "team": "PSG Esports",
+      "hero": "Zata",
+      "kills": 9,
+      "deaths": 3,
+      "assists": 12,
+      "gold": 15000
+    }
+  }
+]

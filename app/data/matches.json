@@ -1,0 +1,24 @@
+[
+  {
+    "match_id": 1,
+    "date": "2025-02-15",
+    "patch_version": "2384219896743026",
+    "tournament": "RoV Pro League 2025 Summer",
+    "round": "Group Stage",
+    "team_a": "Full Sense",
+    "team_b": "PSG Esports",
+    "winner_team": "PSG Esports",
+    "score": {
+      "team_a": 2,
+      "team_b": 3
+    },
+    "player_of_the_match": "4savage",
+    "games": [
+      { "game_id": 1, "winner": "PSG Esports", "duration": "21:52" },
+      { "game_id": 2, "winner": "PSG Esports", "duration": "35:58" },
+      { "game_id": 3, "winner": "Full Sense", "duration": "17:14" },
+      { "game_id": 4, "winner": "Full Sense", "duration": "14:21" },
+      { "game_id": 5, "winner": "PSG Esports", "duration": "16:03" }
+    ]
+  }
+]

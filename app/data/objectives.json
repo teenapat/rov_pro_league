@@ -1,0 +1,13 @@
+[
+  {
+    "game_id": 1,
+    "team": "Team X",
+    "first_blood": true,
+    "first_tower": true,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 8,
+    "total_dragons": 2,
+    "total_slayers": 1
+  }
+]

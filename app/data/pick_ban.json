@@ -1,0 +1,26 @@
+[
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Superman",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Yena",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Ryoma",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Lubu",
+    "action": "Pick"
+  }
+]
