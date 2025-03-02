@@ -3,8 +3,8 @@
     "game_id": 1,
     "match_id": 1,
     "game_number": 1,
-    "team_a": "Full Sense",
-    "team_b": "PSG Esports",
+    "red_side": "Full Sense",
+    "blue_side": "PSG Esports",
     "winner_team": "PSG Esports",
     "duration": "21:52",
     "mvp": {
