@@ -2,25 +2,879 @@
   {
     "game_id": 1,
     "team": "Full Sense",
-    "hero": "Superman",
+    "hero": "TeeMee",
     "action": "Ban"
   },
   {
     "game_id": 1,
     "team": "PSG Esports",
-    "hero": "Yena",
+    "hero": "Valhein",
     "action": "Ban"
   },
   {
     "game_id": 1,
     "team": "Full Sense",
-    "hero": "Ryoma",
+    "hero": "Maloch",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Rouie",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Marja",
     "action": "Pick"
   },
   {
     "game_id": 1,
     "team": "PSG Esports",
-    "hero": "Lubu",
+    "hero": "Grakk",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Bolt Baron",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Enzo",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Raz",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Natalya",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Murad",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Stuart",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Aoi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Capheny",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Fennik",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Hayate",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Full Sense",
+    "hero": "Billow",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
+    "hero": "Qi",
+    "action": "Pick"
+  },
+
+
+
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Marja",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Valhein",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Enzo",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Maloch",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Rouie",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Billow",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Stuart",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Keera",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Arduin",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Yena",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Omen",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "TeeMee",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Qi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Raz",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Dirak",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Skud",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "hero": "Fennik",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "hero": "Y'bneth",
+    "action": "Pick"
+  },
+
+
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Bolt Baron",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Maloch",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Ming",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Marja",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Valhein",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Aoi",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Diao Chan",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Keera",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Iggy",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Stuart",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Zip",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Dolia",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "TeeMee",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Grakk",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Toro",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Skud",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "hero": "Arum",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "hero": "Florentino",
+    "action": "Pick"
+  },
+
+
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Bolt Baron",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Marja",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Valhein",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Aoi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Maloch",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Natalya",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Dolia",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Ming",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Violet",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Wonder Woman",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Florentino",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Omen",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Raz",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Yena",
+    "action": "Ban"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Capheny",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Diao Chan",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "hero": "Errol",
+    "action": "Pick"
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "hero": "Riktor",
+    "action": "Pick"
+  },
+
+
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Valhein",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Aoi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Bolt Baron",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Enzo",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Rouie",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Tulen",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Violet",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Marja",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Toro",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Ming",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Omen",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Yena",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Murad",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Qi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Maloch",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Hayate",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "hero": "Riktor",
+    "action": "Pick"
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "hero": "Ryoma",
+    "action": "Pick"
+  },
+
+
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "TeeMee",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Valhein",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Marja",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Grakk",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Bolt Baron",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Dolia",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Maloch",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Enzo",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Natalya",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Keera",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Hayate",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Omen",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Billow",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Murad",
+    "action": "Ban"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Capheny",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Violet",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "hero": "Fennik",
+    "action": "Pick"
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "hero": "Riktor",
+    "action": "Pick"
+  },
+
+
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Dolia",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Bolt Baron",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Rouie",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Valhein",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Marja",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "TeeMee",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Elsu",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Stuart",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Iggy",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Keera",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Aoi",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Florentino",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Errol",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Murad",
+    "action": "Ban"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Liliana",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Skud",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "hero": "Ming",
+    "action": "Pick"
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "hero": "Qi",
+    "action": "Pick"
+  },
+
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Dolia",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Bolt Baron",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Eland'orr",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "TeeMee",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Valhein",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Billow",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Stuart",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Florentino",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Raz",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Tulen",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Enzo",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Murad",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Zip",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Y'bneth",
+    "action": "Ban"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Marja",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Zill",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "hero": "Helen",
+    "action": "Pick"
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "hero": "Toro",
     "action": "Pick"
   }
 ]

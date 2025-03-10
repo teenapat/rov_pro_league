@@ -1,13 +1,180 @@
 [
   {
     "game_id": 1,
-    "team": "Team X",
+    "team": "Full Sense",
+    "first_blood": false,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 7,
+    "total_dragons": 1,
+    "total_slayers": 4
+  },
+  {
+    "game_id": 1,
+    "team": "PSG Esports",
     "first_blood": true,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 7,
+    "total_dragons": 3,
+    "total_slayers": 1
+  },
+  {
+    "game_id": 2,
+    "team": "Full Sense",
+    "first_blood": false,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 9,
+    "total_dragons": 0,
+    "total_slayers": 3
+  },
+  {
+    "game_id": 2,
+    "team": "PSG Esports",
+    "first_blood": true,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 9,
+    "total_dragons": 4,
+    "total_slayers": 1
+  },
+  {
+    "game_id": 3,
+    "team": "PSG Esports",
+    "first_blood": true,
+    "first_tower": false,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 4,
+    "total_dragons": 2,
+    "total_slayers": 1
+  },
+  {
+    "game_id": 3,
+    "team": "Full Sense",
+    "first_blood": false,
     "first_tower": true,
     "first_dragon": false,
     "first_slayer": true,
-    "total_towers": 8,
+    "total_towers": 7,
+    "total_dragons": 2,
+    "total_slayers": 2
+  },
+  {
+    "game_id": 4,
+    "team": "PSG Esports",
+    "first_blood": false,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": false,
+    "total_towers": 1,
+    "total_dragons": 2,
+    "total_slayers": 0
+  },
+  {
+    "game_id": 4,
+    "team": "Full Sense",
+    "first_blood": true,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": true,
+    "total_towers": 9,
+    "total_dragons": 1,
+    "total_slayers": 3
+  },
+  {
+    "game_id": 5,
+    "team": "PSG Esports",
+    "first_blood": false,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 9,
+    "total_dragons": 4,
+    "total_slayers": 2
+  },
+  {
+    "game_id": 5,
+    "team": "Full Sense",
+    "first_blood": true,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 0,
+    "total_dragons": 0,
+    "total_slayers": 2
+  },
+
+
+  {
+    "game_id": 1,
+    "team": "King of Gamers Club",
+    "first_blood": true,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 4,
     "total_dragons": 2,
     "total_slayers": 1
+  },
+  {
+    "game_id": 1,
+    "team": "Talon",
+    "first_blood": false,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 7,
+    "total_dragons": 2,
+    "total_slayers": 2
+  },
+  {
+    "game_id": 2,
+    "team": "Talon",
+    "first_blood": false,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 9,
+    "total_dragons": 3,
+    "total_slayers": 1
+  },
+  {
+    "game_id": 2,
+    "team": "King of Gamers Club",
+    "first_blood": true,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 0,
+    "total_dragons": 0,
+    "total_slayers": 2
+  },
+  {
+    "game_id": 3,
+    "team": "Talon",
+    "first_blood": true,
+    "first_tower": true,
+    "first_dragon": true,
+    "first_slayer": false,
+    "total_towers": 8,
+    "total_dragons": 4,
+    "total_slayers": 1
+  },
+  {
+    "game_id": 3,
+    "team": "King of Gamers Club",
+    "first_blood": false,
+    "first_tower": false,
+    "first_dragon": false,
+    "first_slayer": true,
+    "total_towers": 3,
+    "total_dragons": 0,
+    "total_slayers": 2
   }
 ]

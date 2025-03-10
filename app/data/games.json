@@ -3,8 +3,8 @@
     "game_id": 1,
     "match_id": 1,
     "game_number": 1,
-    "red_side": "Full Sense",
-    "blue_side": "PSG Esports",
+    "blue_side": "Full Sense",
+    "red_side": "PSG Esports",
     "winner_team": "PSG Esports",
     "duration": "21:52",
     "mvp": {
@@ -14,79 +14,142 @@
       "kills": 2,
       "deaths": 2,
       "assists": 6,
-      "gold": 12500
+      "gold": 12500,
+      "_comment_tabgold_refer_": "19:57"
     }
   },
   {
     "game_id": 2,
     "match_id": 1,
     "game_number": 2,
-    "team_a": "Full Sense",
-    "team_b": "PSG Esports",
+    "blue_side": "Full Sense",
+    "red_side": "PSG Esports",
     "winner_team": "PSG Esports",
-    "duration": "35:58",
+    "duration": "35:59",
     "mvp": {
       "player_name": "Fakeplayz",
       "team": "PSG Esports",
-      "hero": "Raz",
-      "kills": 10,
-      "deaths": 3,
-      "assists": 11,
-      "gold": 15000
+      "hero": "Dirak",
+      "kills": 7,
+      "deaths": 0,
+      "assists": 9,
+      "gold": 19300,
+      "_comment_tabgold_refer_": "30:47"
     }
   },
   {
     "game_id": 3,
     "match_id": 1,
     "game_number": 3,
-    "team_a": "Full Sense",
-    "team_b": "PSG Esports",
+    "blue_side": "PSG Esports",
+    "red_side": "Full Sense",
     "winner_team": "Full Sense",
     "duration": "17:14",
     "mvp": {
       "player_name": "AshEarth",
       "team": "Full Sense",
-      "hero": "Nakroth",
+      "hero": "Florentino",
       "kills": 7,
-      "deaths": 2,
-      "assists": 10,
-      "gold": 13800
+      "deaths": 1,
+      "assists": 3,
+      "gold": 10600,
+      "_comment_tabgold_refer_": "16:03"
     }
   },
   {
     "game_id": 4,
     "match_id": 1,
     "game_number": 4,
-    "team_a": "Full Sense",
-    "team_b": "PSG Esports",
+    "blue_side": "PSG Esports",
+    "red_side": "Full Sense",
     "winner_team": "Full Sense",
-    "duration": "14:21",
+    "duration": "14:22",
     "mvp": {
       "player_name": "Xerross",
       "team": "Full Sense",
-      "hero": "Florentino",
-      "kills": 6,
+      "hero": "Wonder Woman",
+      "kills": 2,
       "deaths": 1,
-      "assists": 8,
-      "gold": 14000
+      "assists": 4,
+      "gold": 8700,
+      "_comment_tabgold_refer_": "12:54"
     }
   },
   {
     "game_id": 5,
     "match_id": 1,
     "game_number": 5,
-    "team_a": "Full Sense",
-    "team_b": "PSG Esports",
+    "blue_side": "PSG Esports",
+    "red_side": "Full Sense",
     "winner_team": "PSG Esports",
     "duration": "16:03",
     "mvp": {
       "player_name": "Fakeplayz",
       "team": "PSG Esports",
-      "hero": "Zata",
-      "kills": 9,
-      "deaths": 3,
-      "assists": 12,
-      "gold": 15000
+      "hero": "Rouie",
+      "kills": 1,
+      "deaths": 1,
+      "assists": 9,
+      "gold": 8500,
+      "_comment_tabgold_refer_": "15:05"
+    }
+  },
+
+  {
+    "game_id": 1,
+    "match_id": 2,
+    "game_number": 1,
+    "blue_side": "King of Gamers Club",
+    "red_side": "Talon",
+    "winner_team": "Talon",
+    "duration": "21:10",
+    "mvp": {
+      "player_name": "Difoxn",
+      "team": "Talon",
+      "hero": "Dolia",
+      "kills": 1,
+      "deaths": 1,
+      "assists": 6,
+      "gold": 10300,
+      "_comment_tabgold_refer_": "20:08"
+    }
+  },
+  {
+    "game_id": 2,
+    "match_id": 2,
+    "game_number": 2,
+    "blue_side": "Talon",
+    "red_side": "King of Gamers Club",  
+    "winner_team": "Talon",
+    "duration": "11:35",
+    "mvp": {
+      "player_name": "AlmondP",
+      "team": "Talon",
+      "hero": "Marja",
+      "kills": 1,
+      "deaths": 0,
+      "assists": 1,
+      "gold": 7700,
+      "_comment_tabgold_refer_": "11:17"
+    }
+  },
+  {
+    "game_id": 3,
+    "match_id": 2,
+    "game_number": 3,
+    "blue_side": "Talon",
+    "red_side": "King of Gamers Club",
+    "winner_team": "Talon",
+    "duration": "17:12",
+    "mvp": {
+      "player_name": "CatSatan",
+      "team": "Talon",
+      "hero": "Valhein",
+      "kills": 5,
+      "deaths": 1,
+      "assists": 8,
+      "gold": 11700,
+      "_comment_tabgold_refer_": "15:32"
     }
   }
 ]
